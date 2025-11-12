@@ -4,7 +4,20 @@
 P{
     color:brown;
     text-align: center;
+    font-size: 25px;
 }
 #as{
     color:antiquewhite;
+}
+div{
+    height:200px;
+    width:200px;
+    color:red;
+    background-color: cadetblue;
+    text-align: center;
+    align-content: center;
+    padding:20px;
+    margin: 100px;
+    border: 1px solid red  ;
+
 }
